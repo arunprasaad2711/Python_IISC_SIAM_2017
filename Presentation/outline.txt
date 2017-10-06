@@ -1,0 +1,12 @@
+Day 1, Session 1:
+Installation of Python, (different methods), Intro to the language, programming structure, Basic aspects of the language: comments, inputs, variables, list, tuples, dictionaries, mutation, if-construct, loops, operators, typecasting, built-in functions, modules; using python terminal, simple data slicing, numpy arrays, and some hands-on  in writing programs.
+
+Day 1, Session 2:
+Writing some simple programs, using NumPy, SciPy, Matplotlib functions for handling data,  plot animation, running calculations and plotting.
+
+Day 2, Session 1:
+Installing python packages, symbolic operations, numerical integration, fft, ifft, solving system of ODE's using in-built commands and writing our own functions.
+
+Day 2, Session 2: (Only Demo)
+Introduction to Jupyter Notebooks, writing code and Markdown (basics). Demonstrations of f2py, cython, mpi4py, and Numba, Details of other important libraries/modules such as Pandas, Django, windspharm, seaborn, etc., "PEP 8" conventions, "Zen of Python", links to documentations, and finally, some closing remarks,
+
