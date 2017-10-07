@@ -3,7 +3,7 @@ import matplotlib.image as img
 import matplotlib.pyplot as plt
 from PIL import Image
 
-fname='images/stinkbug.png'
+fname='images/Lena.png'
 
 image = Image.open(fname).convert("L")
 input_mat = np.asarray(image)
